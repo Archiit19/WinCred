@@ -62,8 +62,8 @@ vector<winCredOps> readUserSpecificCredentials(string userName)
 
 int main()
 {
-	string userName = { 0 };
-	string password = { 0 };
+	string userName ;
+	string password ;
 	acceptInput(userName, password);
 
 	vector<winCredOps> winCredFoundArray = readUserSpecificCredentials(userName);
