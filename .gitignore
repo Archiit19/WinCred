@@ -1,0 +1,6 @@
+*.exe
+*.opendb
+*.obj
+*.tlog
+*.pch
+*.suo

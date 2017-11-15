@@ -30,15 +30,27 @@
     <ClInclude Include="winCredOps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="WinCredOpsHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="userIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="WinCred.cpp">
+    <ClCompile Include="winCredOps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="winCredOps.cpp">
+    <ClCompile Include="WinCredOpsHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="userIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinCredDriver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,6 +1,9 @@
-﻿  winCredOps.cpp
-  WinCred.cpp
-c:\users\archit.goyal\desktop\projects\_cpprojects\wincred\wincred\wincred.cpp(73): warning C4018: '<': signed/unsigned mismatch
+﻿  stdafx.cpp
+  WinCredOpsHelper.cpp
+c:\users\archit.goyal\desktop\projects\_cpprojects\wincred\wincred\wincredopshelper.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  winCredOps.cpp
+  WinCredDriver.cpp
+  userIO.cpp
   Generating Code...
   WinCred.vcxproj -> C:\Users\Archit.Goyal\Desktop\Projects\_cpprojects\WinCred\Debug\WinCred.exe
   WinCred.vcxproj -> C:\Users\Archit.Goyal\Desktop\Projects\_cpprojects\WinCred\Debug\WinCred.pdb (Full PDB)
